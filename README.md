@@ -40,17 +40,17 @@ Here are some screenshots of the game in action:
 
 - Introduction and game rules:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69b0afd5-5f91-4bc6-9d11-0829f051a161" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/65411493-fd30-4e5d-b665-c802140531c4" width="400">
+  <img src="https://github.com/user-attachments/assets/69b0afd5-5f91-4bc6-9d11-0829f051a161" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/65411493-fd30-4e5d-b665-c802140531c4" width="45%">
 </p>
 
 - Gameplay:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23d3fe34-11f2-4f9a-b6a1-5c3c9bc25e12" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/a2df1a41-72f0-4727-8f81-65c861bc4ddc" width="400">
+  <img src="https://github.com/user-attachments/assets/23d3fe34-11f2-4f9a-b6a1-5c3c9bc25e12" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a2df1a41-72f0-4727-8f81-65c861bc4ddc" width="45%">
   <br>
-  <img src="https://github.com/user-attachments/assets/f0642514-2f5d-4258-bfe8-136641eda23f" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/10543609-fb65-41c7-a575-187080aeed3c" width="400">
+  <img src="https://github.com/user-attachments/assets/f0642514-2f5d-4258-bfe8-136641eda23f" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/10543609-fb65-41c7-a575-187080aeed3c" width="45%">
 </p>
 
 ---
