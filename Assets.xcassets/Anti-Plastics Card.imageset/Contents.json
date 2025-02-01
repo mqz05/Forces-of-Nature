@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Anti-Plastics Card.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

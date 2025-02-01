@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Amenity Card (Energy and Tecnology).png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
